@@ -4,7 +4,7 @@
 
 I'm a data professional with 4+ years of experience building analytics infrastructure, designing executive dashboards, and applying statistical methods to drive decision-making across large organizations. Most recently, I supported reporting for 40+ schools and 2,000+ end users at Achievement First, where I was promoted for the measurable impact of my work on leadership visibility and operational efficiency.
 
-I'm passionate about using data to solve problems in **Health**, **Sports**, and **Product** — industries where the right insight at the right time can genuinely change outcomes. Whether it's predicting match results, evaluating program efficacy, or surfacing product behavior patterns, I'm drawn to work where analytical rigor meets real-world stakes.
+I'm passionate about using data to solve problems in **Health**, **Sports**, and **Product** industries where the right insight at the right time can genuinely change outcomes. Whether it's predicting match results, evaluating program efficacy, or surfacing product behavior patterns, I'm drawn to work where analytical rigor meets real-world stakes.
 
 ---
 
