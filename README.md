@@ -1,6 +1,6 @@
-# Hi, I'm Azlan 👋
+## Hi, I'm Azlan 👋
 
-**Senior Data Analyst · M.S. Environmental Sciences · Brooklyn, NY**
+**Senior Data Analyst · New York, NY**
 
 I'm a data professional with 4+ years of experience building analytics infrastructure, designing executive dashboards, and applying statistical methods to drive decision-making across large organizations. Most recently, I supported reporting for 40+ schools and 2,000+ end users at Achievement First, where I was promoted for the measurable impact of my work on leadership visibility and operational efficiency.
 
